@@ -1,0 +1,20 @@
+Version 0.6
+EN
+- Optimized oxygen system. The loading of the moon has become faster.
+- Disabled spawn of all mobs on the moon.
+- Improved texture of the cockpit and oxygen generator.
+- Increased chance of spawn meteorite inside the crater.
+- Added support for the 'Silk Touch' enchantment for meteorite.
+- Added information on the radius of the oxygen generator in the block description.
+- Added on / off oxygen generator.
+- Added items for creative mode: Teleporter and Shuttle Builder.
+
+RU
+- Оптимизированная кислородная система. Загрузка Луны стала быстрее.
+- Отключено появление всех мобов на Луне.
+- Улучшена текстура кабины и генератора кислорода.
+- Увеличен шанс появления метеорита внутри кратера.
+- Добавлена поддержка чар Silk Touch для метеорита.
+- Добавлена информация о радиусе генератора кислорода в описании блока.
+- Добавлено вкл / выкл генератор кислорода.
+- Добавлены предметы для творческого режима: Teleporter и Shuttle Builder.
