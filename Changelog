@@ -1,3 +1,32 @@
+Version 0.7
+EN
+[New]
+- Added oxygen detector
+- Added moonstone
+- Added Russian localization
+[Moon]
+- Earth stone replaced with moonstone
+- Disabled generation of terrestrial ores
+- Average surface height reduced to 78 blocks
+[Improvements]
+- Added strength, level and type of blocks
+- Added chat message mod colors
+- Improved gravity system. The player falls smoothly and slowly.
+
+RU
+[Новое] 
+- Добавлен детектор кислорода 
+- Добавлен лунный камень 
+- Добавлена русская локализация 
+[Луна] 
+- Земной камень заменён на лунный камень 
+- Отключена генерация земных руд 
+- Средняя высота поверхности снижена до 78 блока 
+[Улучшения] 
+- Добавлены прочность, уровень и тип блокам 
+- Добавлены цвета сообщениям мода в чате 
+- Улучшена гравитационная система. Игрок падает плавно и медленно.
+
 Version 0.6
 EN
 - Optimized oxygen system. The loading of the moon has become faster.
