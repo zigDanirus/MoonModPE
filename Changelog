@@ -1,3 +1,32 @@
+Version 0.8
+EN
+[New]
+- Added config. In it you can: disable the mechanics of oxygen and gravity, adjust the chance of spawn meteorite.
+
+[Improvements]
+- Improved shuttle generation on the moon. It is generated on the ground, not somewhere in the air.
+- Improved crater generation. Less likely to meet a crater half enclosed in blocks above.
+- During the flight in the creative, the player does not slow down when reduced.
+- A message about the lack of a spacesuit is displayed in the center of the screen.
+
+[Corrections]
+- Fixed Inner function "GenerationUtils.findSurface ()"
+- Fixed a bug in the oxygen detector message.
+
+RU
+[Новое]
+- Добавлен конфиг. В нём можно: отключить механику кислорода и гравитации, настроить шанс спавна метеорита.
+
+[Улучшения]
+- Улучшена генерация шаттла на луне. Генерируется на земле, а не где-то в воздухе.
+- Улучшена генерация кратера. Меньше вероятность встретить кратер наполовину закрытый блоками сверху.
+- Во время полёта в креативе, игрока не замедляет при снижении.
+- Сообщение об отсутствии скафандра выводится по центру экрана.
+
+[Исправления]
+- Исправлена функция Иннера "GenerationUtils.findSurface()"
+- Исправлена ошибка в сообщении детектора кислорода.
+
 Version 0.7
 EN
 [New]
